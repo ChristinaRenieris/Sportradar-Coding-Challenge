@@ -1,0 +1,53 @@
+body {
+    background-color: #090e34;
+}
+
+.main-wrapper {
+    margin: 1em;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #00073C;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.active {
+    background-color: #b30000;
+    color: black;
+}
+
+.topnav a:hover {
+    background-color: #FF0000;
+    color: black;
+}
+
+label {
+    color: #c2c2d6;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    color: #c2c2d6;
+}
+
+td {
+    color: #9494b8;
+    padding: 1em;
+}
+
+th,
+td {
+    padding: 1em;
+}
